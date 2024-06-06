@@ -1,4 +1,4 @@
-## Hi there 👋
+## ![header](https://capsule-render.vercel.app/api?type=venom&text=Int-TRUE's_GITHUB!&animation=twinkling&height=300&strokeWidth=2)
 
 <!--
 **Int-TRUE/Int-TRUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
