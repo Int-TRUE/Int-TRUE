@@ -4,6 +4,26 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmg06017)](https://solved.ac/dmg06017)
 
+
+◼ Career
+---
+KFTC(Korea Financial Telecommunications and Clearings Institute, 금융결제원) (2025.01 ~ )
+ - IT Operation Team1
+
+KODIT(Korea Credit Guaranted Fund, 신용보증기금) (2024.08 ~ 2025.01)
+ - Digital Channel Team
+
+
+
+◼ Education
+---
+Samsung Software Academy for Youth (2023. 07 ~ 2024. 06)
+ - 10th Mobile Track
+
+Kyungpook National University (2019. 03 ~ 2023. 08)
+ - Applied Life Science
+ - Computer Science and Engineering
+
 <!--
 **Int-TRUE/Int-TRUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
