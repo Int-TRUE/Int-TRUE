@@ -8,7 +8,7 @@
 ◼ Career
 ---
 ✦ KFTC(Korea Financial Telecommunications and Clearings Institute, 금융결제원) (2025.01 ~ )
- - IT Operation Team1
+ - IT Operation Team
 
 ✧ KODIT(Korea Credit Guaranted Fund, 신용보증기금) (2024.08 ~ 2025.01)
  - Digital Channel Team
