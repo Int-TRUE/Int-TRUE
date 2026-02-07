@@ -20,10 +20,10 @@
 
 ◼ Education
 ---
-✦ Samsung Software Academy for Youth (2023. 07 ~ 2024. 06)
+✦ Samsung Software Academy for Youth(삼성청년SW아카데미) (2023. 07 ~ 2024. 06)
  - 10th Mobile Track
 
-✧ Kyungpook National University (2019. 03 ~ 2023. 08)
+✧ Kyungpook National University(경북대학교) (2019. 03 ~ 2023. 08)
  - Applied Biosciences
  - Computer Science and Engineering
 
