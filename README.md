@@ -18,6 +18,9 @@
 
 
 
+
+
+
 ◼ Education
 ---
 ✦ Samsung Software Academy for Youth(삼성청년SW아카데미) (2023. 07 ~ 2024. 06)
