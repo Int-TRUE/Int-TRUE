@@ -13,7 +13,7 @@
 ✧ KODIT(Korea Credit Guaranted Fund, 신용보증기금) (2024.08 ~ 2025.01)
  - Digital Channel Team
 
-✧ Big wave AI - SAS Korea (2022.01 ~ 2022.06)
+✦ Big wave AI - SAS Korea (2022.01 ~ 2022.06)
  - AML System for NongHyup Bank (Contributor)
 
 
