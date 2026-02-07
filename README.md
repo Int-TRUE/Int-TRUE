@@ -21,7 +21,7 @@
  - 10th Mobile Track
 
 ✧ Kyungpook National University (2019. 03 ~ 2023. 08)
- - Applied Life Science
+ - Applied Biosciences
  - Computer Science and Engineering
 
 <!--
